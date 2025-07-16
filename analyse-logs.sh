@@ -40,4 +40,4 @@ for LOG_FILE in $LOG_FILES; do
     done      
 done
 
-echo -e "\nLog analysis completed and report saved in: $REPORT_FILE"
+echo -e "\nLog Analysis completed and report saved in: $REPORT_FILE"
